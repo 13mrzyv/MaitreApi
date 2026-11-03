@@ -144,7 +144,7 @@ Tələblərdə bəzi məqamlar tam dəqiq olmadığı üçün özüm qərarlar v
 
 \- Hesabatda eyni məhsulun fərqli adları varsa, satışları birləşdirib adlardan birini sabit qayda ilə göstərməyi seçdim.3. Tapşırığa nə qədər vaxt sərf etdim
 
-Tapşırığa ümumilikdə 4-5 saat vaxt sərf etdim.
+Tapşırığa ümumilikdə 2-3 saat vaxt sərf etdim.
 Bu müddətə layihənin qurulması, endpoint-lərin hazırlanması, testlər və sənədləşdirmə daxildir.
 
 ## 4\. Daha çox vaxtım olsaydı, nəyi dəyişərdim
